@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    width: 1200px;
+    height: 392px;
+    margin: 100px auto;
+}
+
+ul {
+    list-style: none;
+}
+
+.box .left {
+    float: left;
+    width: 228px;
+    height: 392px;
+    margin-right: 15px;
+}
+
+.box .right {
+    float: left;
+    width: 957px;
+    height: 392px;
+}
+
+.box .right_top {
+    height: 100px;
+    width: 957px;
+    margin-bottom: 23px;
+}
+
+.right_bottom {
+    height: 269px;
+    width: 957px;
+}
+
+.right_bottom li {
+    float: left;
+    height: 269px;
+    width: 228px;
+    margin-right: 15px;
+}
